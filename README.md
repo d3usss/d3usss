@@ -14,7 +14,7 @@
  
 
 <h2 align="left">🚀 Technologies</h2>
-<p align="left">React.js, Astro, Gatsby, Next.js, SASS, CSS-IN-JS, Redux, Redux Toolkit, Redux Saga, Node.js, Express, PostgreSQL, MongoDB, Docker, Ansible, Vagrant, CI/CD, AWS </p>
+<p align="left">React.js, Astro, Gatsby, Next.js, Tailwind, SASS, CSS-IN-JS, Redux, Redux Toolkit, Redux Saga, Node.js, Express, PostgreSQL, MongoDB, Docker, Ansible, Vagrant, CI/CD, AWS </p>
 
 
 <h2 align="left">🖥 Operating Systems</h2>
